@@ -9,7 +9,7 @@ class LlmWiki < Formula
   def install
     # This is a placeholder install step
     touch "placeholder"
-    bin.install "placeholder" => "wiki-llm"
+    bin.install "placeholder" => "llm-wiki"
   end
 
   test do
